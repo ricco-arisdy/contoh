@@ -27,6 +27,7 @@ namespace BubbleShort
                     break;
                 else
                     Console.WriteLine("\nArray dapat mempunyai maksimal 20 elemen.\n");
+
             }
             Console.WriteLine("");
             Console.WriteLine("-----------------------");
